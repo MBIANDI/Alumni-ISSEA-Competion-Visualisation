@@ -1,6 +1,9 @@
 # Compétition de Visualisation de Données - Journée Alumni ISSEA
 
 
+![LOGO](https://issea-cemac.org/issea/themes/issea/assets/images/logo.png)
+
+
 Bienvenue à la compétition de visualisation de données organisée par l'Institut Supérieur des Statistiques et d'Économie Appliquée (ISSEA) à l'occasion de la journée Alumni célébrant les 40 ans de l'institut. Cette compétition vise à mettre en valeur les compétences en analyse et visualisation de données des étudiants tout en célébrant l'histoire et les réalisations de l'ISSEA.
 
 ## Objectifs de la Compétition
