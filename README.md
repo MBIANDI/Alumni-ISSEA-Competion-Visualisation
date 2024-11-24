@@ -12,7 +12,7 @@ Bienvenue à la compétition de visualisation de données organisée par l'Insti
 ## Thèmes de la Compétition
 
 Les participants sont invités à créer des visualisations autour des thèmes du travail en Afrique. Visitez ce site pour télécharger les données sur le site :
-`https://ilostat.ilo.org/data/africa/``
+`https://ilostat.ilo.org/data/africa/`
 
 Vous y trouverez les différents indicateurs.
 
