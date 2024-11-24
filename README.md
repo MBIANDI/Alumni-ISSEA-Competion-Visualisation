@@ -61,6 +61,7 @@ Les gagnants recevront des prix en espèces, des certificats de reconnaissance, 
 - Premier prix : 100 000 FCFA
 - Second prix : 50 000 FCFA
 - Troisième prix : 25 000 FCFA
+- **Un prix spécial** des Alumni s'ajoutera à la cagnotte initiale.
 
 ## Contact et aide
 
