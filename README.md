@@ -17,7 +17,7 @@ Bienvenue à la compétition de visualisation de données organisée par l'Insti
 Les participants sont invités à créer des visualisations autour des thèmes du travail en Afrique. Visitez ce site pour télécharger les données sur le site :
 `https://ilostat.ilo.org/data/africa/` . Si vous utilisez des sources de données externes, vous devrez les mentionner.
 
-Vous êtes libres d'utiliser les indicateurs de votre choix présents sur le site sus-mentionné.
+Vous êtes libres d'utiliser les indicateurs de votre choix présents sur le site susmentionné.
 
 ## Groupes
 
@@ -32,7 +32,7 @@ Vous êtes libres d'utiliser les indicateurs de votre choix présents sur le sit
 
 Les soumissions seront évaluées selon les critères suivants :
 - **Clarté et lisibilité** : La visualisation doit être facile à comprendre et à interpréter.
-- **Originalité** : L'approche et le design doivent être innovants et créatifs.
+- **Originalité** : L'approche et le design doivent être innovants, diversifiés et créatifs.
 - **Pertinence** : La visualisation doit être pertinente par rapport au thème de la compétition.
 - **Qualité des données** : L'exactitude, la fiabilité et les sources des données utilisées seront prises en compte.
 
@@ -60,13 +60,13 @@ Les soumissions seront évaluées selon les critères suivants :
 Les gagnants recevront des prix en espèces, des certificats de reconnaissance, et auront l'opportunité de présenter leurs travaux lors de la journée Alumni.
 - Premier prix : 100 000 FCFA
 - Second prix : 50 000 FCFA
-- Troisème prix : 25 000 FCFA
+- Troisième prix : 25 000 FCFA
 
 ## Contact et aide
 
 Pour toute question ou information supplémentaire, veuillez contacter l'équipe organisatrice à l'adresse suivante : **isseaalumni@gmail.com** .
 
-Le but du starting notebook n'est pas de vous calquer mais d'avoir un point d'entrée dans la compétition.
+Le but du starting notebook n'est pas de le reproduire mais d'avoir un point d'entrée dans la compétition.
 
 ---
 
